@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hello human 👋
+Passionate about learning new things that help create solutions that add up to human development.
+
+
+🌱 I’m currently learning NodeJS, React, React Native and Typescript
+📫 How to reach me: ...
+
+[![Gmail Badge](https://img.shields.io/badge/-rodrigodsluz@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rodrigodsluz@gmail.com)](mailto:rodrigodsluz@gmail.com)
+
 
 <!--
 **rodrigodsluz/rodrigodsluz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
