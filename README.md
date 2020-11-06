@@ -2,7 +2,7 @@
 Passionate about learning new things that help create solutions that add up to human development. :rocket:
 
 
-<br/> 🌱 I’m currently learning JavaScript (ReactJS, React Native, NodeJS and TypeScript).
+<br/> 🌱 I’m currently learning JavaScript (ReactJS, React Native, NodeJS and TypeScript)..
 <br/> 📫 How to reach me: <a href="https://www.linkedin.com/in/rodrigodsluz/">
  <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white" />
 </a> [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rodrigodsluz@gmail.com)](mailto:rodrigodsluz@gmail.com)
