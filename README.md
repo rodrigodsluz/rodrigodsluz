@@ -12,8 +12,9 @@
  <img src="https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white" />
 </a>
 
+## Welcome to my profile 🙋‍♂️
 
-I'm passionate about learning new things that help create solutions that add up to human development. :rocket:
+My name is Rodrigo, and I'm passionate about learning new things that help create solutions that add up to human development. :rocket:
 
 - 🔭 I’m currently working on Direct One - D1
 - 🌱 I’m currently learning JavaScript/TypeScript (ReactJS, React Native and NodeJS). 🛢💻📱
