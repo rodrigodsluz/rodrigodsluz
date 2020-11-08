@@ -8,9 +8,8 @@
  <img src="https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white" />
 </a>
 
-<a href="https://t.me/rodrigodsluz/">
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/rodrigodsluz/)](https://t.me/rodrigodsluz/)
-</a>
+<br/> [![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/rodrigodsluz/)](https://t.me/rodrigodsluz/)
+
 
 Passionate about learning new things that help create solutions that add up to human development. :rocket:
 
