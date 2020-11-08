@@ -14,7 +14,7 @@
 
 ## Welcome to my profile 🙋‍♂️
 
-My name is Rodrigo, and I'm passionate about learning new things through programming that help create solutions that add up to human development. :rocket:
+My name is Rodrigo, and I'm a full stack developer passionate about learning new things through programming that help create solutions that add up to human development. :rocket:
  
 - 🔭 I’m currently working on <a href="https://www.d1.cx/" target="_blank"> Direct One - D1 </a>
 - 🌱 I’m currently learning JavaScript/TypeScript (ReactJS, React Native and NodeJS). 🛢💻📱
