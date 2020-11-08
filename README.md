@@ -1,4 +1,4 @@
-### Hello human being 👋
+### Hello, human being 👋
 Passionate about learning new things that help create solutions that add up to human development. :rocket:
 
 <br/>🔭 I’m currently working on Direct One - D1
