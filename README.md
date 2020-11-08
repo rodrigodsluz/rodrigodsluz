@@ -5,13 +5,14 @@
 </a>
 
 <a href="mailto:rodrigodsluz@gmail.com">
- <img src="https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white" />
+ <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" />
 </a>
 
-<br/> [![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/rodrigodsluz/)](https://t.me/rodrigodsluz/)
+<a href="https://t.me/rodrigodsluz/">
+ <img src="https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white" />
+</a>
 
-
-Passionate about learning new things that help create solutions that add up to human development. :rocket:
+I'm passionate about learning new things that help create solutions that add up to human development. :rocket:
 
 -🔭 I’m currently working on Direct One - D1
 - 🌱 I’m currently learning JavaScript/TypeScript (ReactJS, React Native and NodeJS).
