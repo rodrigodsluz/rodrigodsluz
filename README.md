@@ -1,14 +1,14 @@
 # Hello, human being 👋
 
-<a href="https://www.linkedin.com/in/rodrigodsluz" target="_blank>
+<a href="https://www.linkedin.com/in/rodrigodsluz" target="_blank">
  <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white" />
 </a>
 
-<a href="mailto:rodrigodsluz@gmail.com" target="_blank>
+<a href="mailto:rodrigodsluz@gmail.com" target="_blank">
  <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" />
 </a>
 
-<a href="https://t.me/rodrigodsluz/" target="_blank>
+<a href="https://t.me/rodrigodsluz/" target="_blank">
  <img src="https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white" />
 </a>
 
@@ -16,7 +16,7 @@
 
 My name is Rodrigo, and I'm passionate about learning new things through programming that help create solutions that add up to human development. :rocket:
  
-- 🔭 I’m currently working on <a href="https://www.d1.cx/" target="_blank> Direct One - D1 </a>
+- 🔭 I’m currently working on <a href="https://www.d1.cx/" target="_blank"> Direct One - D1 </a>
 - 🌱 I’m currently learning JavaScript/TypeScript (ReactJS, React Native and NodeJS). 🛢💻📱
 - 📫 How to reach me: click on any of the badges above and call me to chat 💬
 
