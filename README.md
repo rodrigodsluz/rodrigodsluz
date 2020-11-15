@@ -26,7 +26,7 @@ I'm a full stack developer passionate about learning new things through programm
 <!--
 **rodrigodsluz/rodrigodsluz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started: 
+Here are some ideas to get you started:  
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
