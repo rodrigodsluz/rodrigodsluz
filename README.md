@@ -12,7 +12,7 @@
  <img src="https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white" />
 </a>
 
-## Welcome to my profile 🙋‍♂️
+## Welcome to my profile 🙋‍♂️ 
 
 I'm a full stack developer passionate about learning new things through programming that help create solutions that add up to human development. :rocket:
  
