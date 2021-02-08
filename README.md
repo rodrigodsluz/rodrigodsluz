@@ -16,7 +16,7 @@
 
 I'm a full stack developer passionate about learning new things through programming that help create solutions that add up to human development. :rocket:
  
-- 🔭 I’m currently working at <a href="https://www.d1.cx/" target="_blank"> Direct One - D1 </a>
+- 🔭 I’m currently working at <a href="https://www.d1.cx/" target="_blank"> D1 </a>
 - 🌱 I’m currently learning JavaScript/TypeScript (NextJS, ReactJS, NodeJS and React Native). 🛢💻📱
 - 🦯 Work tools: Visual Studio Code, Insomnia, Trello, GitLab, Slack, Linux, Discord and many others.
 - 📫 How to reach me: click on any of the badges above and call me to chat 💬    
