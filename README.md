@@ -3,8 +3,11 @@
 </a>
 
 <a href="mailto:rodrigodsluz@gmail.com" target="_blank">
- <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+
+
+
 
 #### I'm a full-stack developer passionate about learning new things through programming that help create solutions that add up to human development. :rocket:
  
