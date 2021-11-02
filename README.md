@@ -15,7 +15,7 @@
 </a>
 
 
-
+_______________
 
 I'm a technology enthusiast with a positive mindset and a wild desire to learn new things. Since beginning my journey as a Front End Developer, I have continuously worked to improve my skills and optimize my projects more and more.
 
