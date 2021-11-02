@@ -17,9 +17,9 @@
 
 _______________
 
-I'm a technology enthusiast with a positive mindset and a wild desire to learn new things. Since beginning my journey as a Front End Developer, I have continuously worked to improve my skills and optimize my projects more and more.
+I'm a technology enthusiast with a positive mindset and a wild desire to learn new things. Since beginning my journey as a Front-End Developer, I have continuously worked to improve my skills and optimize my projects more and more.
 
-Web development has never been "just a passion" for me. It has offered an engaging challenge to continuously learn and improve my skills in creating better websites or web apps. What started with just a curiosity of building something has become a full-fledged passion that only makes me more interested as the years go by. :rocket:
+Web development has never been "just a passion" for me. It has offered an engaging challenge to continuously learn and improve my skills in creating better websites or mobile apps. What started with just a curiosity of building something has become a full-fledged passion that only makes me more interested as the years go by. :rocket:
  
 - 🔭 I’m currently working at <a href="https://wefit.com.br/" target="_blank"> WeFit </a> as a Front-end developer
 - 🎓 I’m currently studying Information Systems at [Federal University of Itajubá <img alt="Brazil Flag" title="Brazil" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/br.svg" width="22">](https://en.unifei.edu.br/) (UNIFEI)
