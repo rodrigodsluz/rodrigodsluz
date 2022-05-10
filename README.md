@@ -23,7 +23,7 @@ I've broad experience with ReactJS, NextJS, React Native and Typescript.
 
 Web development has never been "just a passion" for me. It has offered an engaging challenge to continuously learn and improve my skills in creating better websites or mobile apps. What started with just a curiosity of building something has become a full-fledged passion that only makes me more interested as the years go by. :rocket:
  
-- 🔭 I’m currently working at <a href="https://wefit.com.br/" target="_blank"> WeFit </a> as a Front-end developer
+- 🔭 I’m currently working at <a href="https://www.fuerzastudio.com.br/en/" target="_blank"> Fuerza Studio </a> as a Front-end developer
 - 🎓 I’m currently studying Information Systems at [Federal University of Itajubá <img alt="Brazil Flag" title="Brazil" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/br.svg" width="22">](https://en.unifei.edu.br/) (UNIFEI)
 - 🌱 I’m constantly learning and improving my skills in ReactJS, React Native, NextJS and TypeScript.  💻📱
 
